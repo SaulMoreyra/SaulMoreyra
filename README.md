@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rick and Morty Frontend](https://github.com/AragonMoreyraSaulRenato/rickl-and-morty-react)
 
-- 🌱 I’m currently learning **Redux, Gatsby, Next, Django, Flask**
+- 🌱 I’m currently learning **Gatsby, Next, Django, Flask**
 
 - 💬 Ask me about **Javascrit, Java**
 
