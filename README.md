@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saul Moreyra</h1>
 <h3 align="center">A passionate FullStack developer from Mexico, I love React and Material UI ❤️</h3>
 
-- 🔭 I’m currently working on [Rick and Morty Frontend](https://github.com/AragonMoreyraSaulRenato/rickl-and-morty-react)
+- 🔭 I’m currently working on everything
 
-- 🌱 I’m currently learning **Gatsby, Next, Django, Flask**
+- 🌱 I’m currently learning **NestJs, Docker, Kubernets, Django, Flask**
 
-- 💬 Ask me about **Javascrit, Java**
+- 💬 Ask me about **Javascrit, Java, Typescript**
 
 - 📫 How to reach me **saulrenato.moreyra@gmail.com**
 
