@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on everything
 
-- 🌱 I’m currently learning **NestJs, Docker, Kubernets, Django, Flask**
+- 🌱 I’m currently learning **Kubernets, Django, Flask**
 
 - 💬 Ask me about **Javascrit, Java, Typescript**
 
